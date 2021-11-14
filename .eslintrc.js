@@ -32,10 +32,11 @@ module.exports = {
                     code: 120,
                 },
             ],
-            "no-continue": "off",
             "no-unused-vars": "off",
             "no-shadow": "off",
             "no-useless-catch": "off",
+            "no-alert": "off",
+            "prefer-rest-params" : "off",
         },
     }],
     settings: {
